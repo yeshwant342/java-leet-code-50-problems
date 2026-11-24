@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
