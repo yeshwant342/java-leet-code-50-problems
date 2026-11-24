@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
 | [2427-number-of-common-factors](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
