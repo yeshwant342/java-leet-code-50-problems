@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0344-reverse-string) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2427-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
