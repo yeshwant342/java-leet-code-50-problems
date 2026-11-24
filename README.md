@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0258-add-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
@@ -22,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0191-number-of-1-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
