@@ -3,7 +3,7 @@ class Solution {
         int count = 0, temp = num;
         while (temp > 0) {
             int digit = temp % 10;
-            if (digit != 0 && num % digit == 0) count++;
+            if (num % digit == 0) count++;
             temp /= 10;
         }
         return count;
