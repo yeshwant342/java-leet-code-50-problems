@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0258-add-digits) |
+| [0728-self-dividing-numbers](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
