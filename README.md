@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0520-detect-capital) |
 ## Enumeration
 |  |
