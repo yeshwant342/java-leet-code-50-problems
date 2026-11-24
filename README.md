@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
