@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0728-self-dividing-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1512-number-of-good-pairs) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
