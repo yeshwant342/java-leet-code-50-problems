@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0258-add-digits) |
 | [0728-self-dividing-numbers](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0728-self-dividing-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/yeshwant342/java-leet-code-50-problems/tree/master/0520-detect-capital) |
 ## Enumeration
 |  |
